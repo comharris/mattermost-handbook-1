@@ -6,7 +6,7 @@ description: >-
 
 # How to spend company money
 
-At Mattermost, we want you to be successful Day 1. As staff members, you are empowered to determine and purchase what you need in order to do your job. We value high-impact over stringent expense rules and these expense guidelines are intended to help make decisions not hinder movement. Depending on Country, some items may be way below or way above the averages listed. If you need to spend more to get the right equipment for you to be productive, we trust you’re making purchase decisions to optimize cost and efficiency. If you are uncertain, feel free to reach out in the [Finance Team](https://community.mattermost.com/private-core/channels/expenses) channel.
+At Mattermost, we want you to be successful Day 1. As staff members, you are empowered to determine and purchase what you need in order to do your job. We value high-impact over stringent expense rules and these expense guidelines are intended to help make decisions not hinder movement. Depending on region/country, some items may be way below or way above the averages listed. If you need to spend more to get the right equipment for you to be productive, we trust you’re making purchase decisions to optimize cost and efficiency. If you are uncertain, feel free to reach out in the [Finance Team](https://community.mattermost.com/private-core/channels/expenses) channel.
 
 ## Mattermost Guidelines
 
@@ -96,7 +96,7 @@ Mattermost will cover work-related travel expenses for approved business travel.
 
 ### MEALS AND ENTERTAINMENT
 
-Spend company money like it’s your own. When traveling on behalf of Mattermost, average meal costs will vary by destination city and country. The two links below are helpful reference points for city and country averages. Note: 20% max is considered a gratuity for exceptional service. If helpful, the below links provide information regarding daily per diem guidance in the US as well as other countries.
+Spend company money like it’s your own. When traveling on behalf of Mattermost, average meal costs will vary by destination city and region/country. The two links below are helpful reference points for city and region/country averages. Note: 20% max is considered a gratuity for exceptional service. If helpful, the below links provide information regarding daily per diem guidance in the US as well as other countries.
 
 As an example, daily per diems in the following locations are below:
 
@@ -130,7 +130,7 @@ Staff members may retain points earned for hotel stays. However, hotel reservati
 
 ### **MILEAGE REIMBURSEMENT**
 
-We will reimburse mileage according to local laws of the country your contract is legally signed. For example, a contract with Mattermost, Inc. would be subject to IRS mileage reimbursement at the [US rate per mile](http://www.irs.gov/Tax-Professionals/Standard-Mileage-Rates). For approval, you must add a screenshot of a map to the expense in Expensify indicating the mileage.
+We will reimburse mileage according to local laws of the region/country your contract is legally signed. For example, a contract with Mattermost, Inc. would be subject to IRS mileage reimbursement at the [US rate per mile](http://www.irs.gov/Tax-Professionals/Standard-Mileage-Rates). For approval, you must add a screenshot of a map to the expense in Expensify indicating the mileage.
 
 * [US rate per mile](http://www.irs.gov/Tax-Professionals/Standard-Mileage-Rates) 
 * [Canada rate per KM](https://www.canada.ca/en/revenue-agency/services/tax/businesses/topics/payroll/benefits-allowances/automobile/automobile-motor-vehicle-allowances/automobile-allowance-rates.html)
